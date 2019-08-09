@@ -1,6 +1,7 @@
 # Angular Elements Example
 
 This project is example of Angular Elements as custom elements (also called Web Components) with Lazy Loading features.
+
 In example you can find one Component that  will be automatically loaded into page after detection in HTML.
 
 ## Development server
